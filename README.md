@@ -18,23 +18,7 @@ Every run gives you a new quote to inspire your day! 💪
 
 Python 3
 
-Random module
 
-🚀 How to Run
-
-Clone this repository
-
-git clone https://github.com/yourusername/motivational-quote-generator.git
-
-
-Navigate into the folder
-
-cd motivational-quote-generator
-
-
-Run the file
-
-python motivational_quote_generator.py
 
 💡 Author
 
